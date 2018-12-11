@@ -1,0 +1,38 @@
+{
+  "name": "Amtread.com",
+  "short_name": "Amtread",
+  "start_url": "https://www.amtread.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang membahas seputar dunia IT dan bisnis online maupun bisnis dunia nyata.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-XXjQL2-STZg/W53rZup4SuI/AAAAAAAABY0/TlQGnCGYtycJqMpe4Km9z9jEsXWzy-JhwCLcBGAs/s1600/logo-amtread2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
